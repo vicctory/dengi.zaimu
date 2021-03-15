@@ -1,0 +1,413 @@
+{
+   "cards":[
+      {
+         "image_url":"http://zaem-online.kz/img/alfa.png",
+         "sum":"до 15 000 грн",
+         "percent":"от 1,85%",
+         "url":"http://minfin.ru"
+      },
+      {
+         "image_url":"http://zaem-online.kz/img/smart_card_mc_normal.png",
+         "sum":"до 20 000 грн",
+         "percent":"от 1,85%",
+         "url":"http://minfin.ru"
+      }
+   ],
+   "zaim":[
+      
+        {
+        
+       
+
+	"name": "Miloan",
+	"age": "18-65",
+    "image": "https://zaimua.com.ua/img/miloan_logo.png",
+    "rating": 4.6,
+	
+    "sum_one": "12 000 грн",
+	"percents": "от 0%",
+	"days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1148&affid=20776&subid2=uakre"
+
+  
+  
+  
+  } ,
+  
+   {
+   "name": "Tengo",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/bbvs.png",
+    "rating": 4.6,
+  
+    "sum_one": "15 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://trkleads.ru/click/63d7c3ca1091e24df3b84374cf92fdf8?aff_sub2=uakre"
+  }
+ 
+  ,  
+  
+  
+  
+  
+  {
+   "name": "ШвидкоГроші",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/sgroshi.jpg",
+    "rating": 4.6,
+    "sum_one": "10 000 грн",
+   "percents": "от 2%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1185&affid=20776&subid2=uakre"
+  }
+  , 
+   
+  
+   
+   
+    {
+   "name": "ПростоГроші",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/prostogr.png",
+    "rating": 4.6,
+    "sum_one": "20 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1242&affid=20776&subid2=uakre"
+  }
+   ,
+  
+ 
+ {
+   "name": "Grivni",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/logo-58.png",
+    "rating": 4.6,
+    "sum_one": "10 000 грн",
+   "percents": "от 0.1%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://pxl.leads.su/click/f2a8580f5eb2e82e3094c505835e656d?aff_sub2=uakre"
+  } , 
+ 
+  
+  
+  
+  
+  
+   
+   
+    {
+   "name": "Credit7",
+   "age": "21-65",
+    "image": "https://zaimua.com.ua/img/kredit7.jpg",
+    "rating": 5,
+    "sum_one": "до 10 000 грн.",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1147&affid=20776&subid2=uakre"
+  },
+  
+  
+ 
+ 
+  {
+   "name": "Cashrush",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/casuh.png",
+    "rating": 4.6,
+    "sum_one": "15 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://trkleads.ru/click/790a44368b67865eeabc09cf8a3ef304?aff_sub2=uakre"
+  } ,
+ 
+    
+  
+  
+  {
+   "name": "MyCredit",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/mycre.png",
+    "rating": 4.9,
+    "sum_one": "6 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1309&affid=20776&subid2=uakre"
+  },
+ 
+    
+  
+  
+  
+  
+   
+   
+ 
+ {
+   "name": "CreditPlus",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/creditplus-ua-kv.jpg.png",
+    "rating": 4.6,
+    "sum_one": "10 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1158&affid=20776&subid2=uakre"
+  }
+   , 
+  
+  
+   {
+   "name": "Moneyveo",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/mowe.jpeg",
+    "rating": 4.8,
+    "sum_one": "17 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1160&affid=20776&subid2=uakre"
+  }
+  ,
+ 
+  {
+   "name": "Credit Kasa",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/creditkasa-ua-kv.jpg.png",
+    "rating": 4.6,
+    "sum_one": "10 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1203&affid=20776&subid2=uakre"
+  }
+  , 
+  
+  
+  
+   
+  
+  
+  
+  
+  {
+   "name": "Євро Гроші",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/yevrogroshi.png",
+    "rating": 4.8,
+    "sum_one": "5 000 грн",
+   "percents": "от 1.6%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1165&affid=20776&subid2=uakre"
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ {
+   "name": "Alex Сredit",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/alex-ua-kv.jpg.png",
+    "rating": 4.8,
+    "sum_one": "12 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1172&affid=20776&subid2=uakre"
+  }
+  
+
+  ,
+  
+  
+   
+ 
+ 
+   
+    {
+   "name": "Gofingo",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/ofing.png",
+    "rating": 4.8,
+    "sum_one": "4 000 грн",
+   "percents": "от 2.50%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1163&affid=20776&subid=uakre"
+  },
+    
+ 
+ 
+ 
+   
+
+ 
+ 
+ {
+   "name": "Zecredit",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/zecredit_logo.png",
+    "rating": 4.8,
+    "sum_one": "7 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1182&affid=20776&subid2=uakre"
+  }
+  ,
+  
+
+ 
+   
+    
+ 
+ {
+   "name": "E-cash",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/e-cash-logo-2.png",
+    "rating": 4.6,
+    "sum_one": "8 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1178&affid=20776&subid2=uakre"
+  }
+  , 
+  
+  
+  
+ 
+  
+  
+  
+  {
+   "name": "Є Гроші",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/egrlogo.png",
+    "rating": 4.8,
+    "sum_one": "5 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1306&affid=20776&subid2=uakre"
+  },
+  
+  
+  
+    
+    
+  
+    {
+   "name": "КАЧАЙ ГРОШІ",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/kachay.png",
+    "rating": 4.8,
+    "sum_one": "10 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1162&affid=20776&subid=uakre"
+  },
+  
+  
+  
+    {
+   "name": "MoneyBOOM",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/moneyboom.png",
+    "rating": 4.8,
+    "sum_one": "15 000 грн",
+   "percents": "от 1.75%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1189&affid=20776&subid=uakre"
+  },
+  
+  
+  
+  
+  
+  
+   
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+
+ 
+ 
+{
+   "name": "SOSCredit",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/soscredit1.jpg",
+    "rating": 4.8,
+    "sum_one": "7 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1164&affid=20776&subid2=uakre"
+  }
+  
+  
+  
+ 
+    
+ 
+ 
+
+  
+  
+    , 
+ 
+ {
+   "name": "Ваша Готiвочка",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/vashago.png",
+    "rating": 4.6,
+    "sum_one": "7 000 грн",
+   "percents": "от 1%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://trkleads.ru/click/f4e27dc6b04ea59c6eba71fa42babf19?aff_sub2=uakre"
+  }
+  
+  
+   ,
+ 
+ 
+ 
+ {
+   "name": "Money4you",
+   "age": "18-65",
+    "image": "https://zaimua.com.ua/img/mone.jpg.png",
+    "rating": 4.6,
+    "sum_one": "5 000 грн",
+   "percents": "от 0.01%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1183&affid=20776&subid2=uakre"
+  }
+  
+  
+  
+  
+  
+
+  
+   ,  
+    
+   
+   
+  
+ 
+  {
+   "name": "Ccloan",
+   "age": "18-70",
+    "image": "https://zaimua.com.ua/img/ccc.png",
+    "rating": 4.9,
+    "sum_one": "15 000 грн",
+   "percents": "от 0%",
+   "days_srok": "до 160 дней",
+    "urlna": "https://tds.pdl-profit.com?offerid=1175&affid=20776&subid2=uakre"
+  }
+
+   ]
+}
